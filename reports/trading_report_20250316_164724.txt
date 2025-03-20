@@ -1,0 +1,26 @@
+================================================================================
+TRADING SYSTEM REPORT - 2025-03-16 16:47:24
+================================================================================
+
+SYSTEM SUMMARY
+--------------------------------------------------------------------------------
+Active Symbols: 
+Total Decisions: 0
+Buy Signals: 0
+Sell Signals: 0
+Neutral Signals: 0
+
+TRADING DECISIONS
+--------------------------------------------------------------------------------
+No trading decisions available yet.
+
+AGENT STATUS
+--------------------------------------------------------------------------------
+CommunicationHub (comm_hub): Running
+MarketData (market_data): Running
+TechnicalAnalysis (tech_analysis): Running
+DecisionMaker (decision_maker): Running
+
+================================================================================
+END OF REPORT
+================================================================================

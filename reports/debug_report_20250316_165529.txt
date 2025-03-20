@@ -1,0 +1,106 @@
+================================================================================
+DEBUG SYSTEM REPORT - 2025-03-16 16:55:29
+================================================================================
+
+SYSTEM STATE:
+{
+  "timestamp": "2025-03-16T11:25:29.460842",
+  "state": {
+    "trading_decisions": {
+      "AAPL": {
+        "symbol": "AAPL",
+        "recommendation": "BUY",
+        "confidence_score": 0.3,
+        "suggested_position_size": 0.018,
+        "reasoning": {
+          "technical_signals": {
+            "macd": "BUY",
+            "rsi": "NEUTRAL",
+            "bollinger": "NEUTRAL",
+            "overall": "BUY"
+          },
+          "risk_assessment": {
+            "risk_tolerance": 0.6,
+            "position_size": 0.018
+          }
+        },
+        "timestamp": "2025-03-16T11:25:18.465075"
+      },
+      "MSFT": {
+        "symbol": "MSFT",
+        "recommendation": "BUY",
+        "confidence_score": 0.3,
+        "suggested_position_size": 0.018,
+        "reasoning": {
+          "technical_signals": {
+            "macd": "BUY",
+            "rsi": "NEUTRAL",
+            "bollinger": "NEUTRAL",
+            "overall": "BUY"
+          },
+          "risk_assessment": {
+            "risk_tolerance": 0.6,
+            "position_size": 0.018
+          }
+        },
+        "timestamp": "2025-03-16T11:25:18.466111"
+      }
+    },
+    "aggregated_decisions": [
+      {
+        "symbol": "AAPL",
+        "recommendation": "BUY",
+        "confidence_score": 0.3,
+        "suggested_position_size": 0.018,
+        "reasoning": {
+          "technical_signals": {
+            "macd": "BUY",
+            "rsi": "NEUTRAL",
+            "bollinger": "NEUTRAL",
+            "overall": "BUY"
+          },
+          "risk_assessment": {
+            "risk_tolerance": 0.6,
+            "position_size": 0.018
+          }
+        },
+        "timestamp": "2025-03-16T11:25:18.465075"
+      },
+      {
+        "symbol": "MSFT",
+        "recommendation": "BUY",
+        "confidence_score": 0.3,
+        "suggested_position_size": 0.018,
+        "reasoning": {
+          "technical_signals": {
+            "macd": "BUY",
+            "rsi": "NEUTRAL",
+            "bollinger": "NEUTRAL",
+            "overall": "BUY"
+          },
+          "risk_assessment": {
+            "risk_tolerance": 0.6,
+            "position_size": 0.018
+          }
+        },
+        "timestamp": "2025-03-16T11:25:18.466111"
+      }
+    ]
+  },
+  "summary": {
+    "active_symbols": [
+      "MSFT",
+      "AAPL"
+    ],
+    "total_decisions": 2,
+    "buy_signals": 2,
+    "sell_signals": 0,
+    "neutral_signals": 0
+  }
+}
+
+AGENT MESSAGE QUEUES:
+CommunicationHub (comm_hub_1): 0 messages
+MockMarketData (market_data_1): 2 messages
+TechnicalAnalysis (tech_analysis_1): 0 messages
+DecisionMaker (decision_maker_1): 0 messages

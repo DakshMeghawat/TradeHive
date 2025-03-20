@@ -1,0 +1,26 @@
+[
+  {
+    "id": "order_1_20250316114710",
+    "symbol": "AAPL",
+    "quantity": 17,
+    "side": "buy",
+    "type": "market",
+    "limit_price": null,
+    "status": "filled",
+    "filled_quantity": 17,
+    "filled_price": 139.91,
+    "timestamp": "2025-03-16T11:47:10.000000"
+  },
+  {
+    "id": "order_1_20250316114835",
+    "symbol": "NSE:TATAMOTORS",
+    "quantity": 17,
+    "side": "buy",
+    "type": "market",
+    "limit_price": null,
+    "status": "filled",
+    "filled_quantity": 17,
+    "filled_price": 164.21,
+    "timestamp": "2025-03-16T11:48:35.000000"
+  }
+] 

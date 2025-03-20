@@ -1,0 +1,20 @@
+{
+  "AAPL": {
+    "symbol": "AAPL",
+    "quantity": 17,
+    "avg_price": 139.91,
+    "market_value": 2378.47,
+    "current_price": 142.35,
+    "unrealized_pl": 41.48,
+    "unrealized_plpc": 0.0174
+  },
+  "NSE:TATAMOTORS": {
+    "symbol": "NSE:TATAMOTORS",
+    "quantity": 17,
+    "avg_price": 164.21,
+    "market_value": 2791.57,
+    "current_price": 167.80,
+    "unrealized_pl": 61.03,
+    "unrealized_plpc": 0.0219
+  }
+} 

@@ -1,0 +1,22 @@
+================================================================================
+DEBUG SYSTEM REPORT - 2025-03-16 16:51:13
+================================================================================
+
+SYSTEM STATE:
+{
+  "timestamp": "2025-03-16T11:21:13.884043",
+  "state": {},
+  "summary": {
+    "active_symbols": [],
+    "total_decisions": 0,
+    "buy_signals": 0,
+    "sell_signals": 0,
+    "neutral_signals": 0
+  }
+}
+
+AGENT MESSAGE QUEUES:
+CommunicationHub (comm_hub_1): 0 messages
+MockMarketData (market_data_1): 2 messages
+TechnicalAnalysis (tech_analysis_1): 0 messages
+DecisionMaker (decision_maker_1): 0 messages
