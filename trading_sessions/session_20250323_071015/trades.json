@@ -1,0 +1,80 @@
+{
+  "AAPL_20250323_071016": {
+    "symbol": "AAPL",
+    "direction": "BUY",
+    "price": 218.27000427246094,
+    "shares": 68,
+    "value": 14842.360290527344,
+    "timestamp": "2025-03-23T07:10:16.835985",
+    "decision": {
+      "symbol": "AAPL",
+      "recommendation": "BUY",
+      "confidence_score": 0.78,
+      "suggested_position_size": 0.15,
+      "reasoning": {
+        "rationale": "AAPL shows strong technical signals with bullish MACD crossover and support at the 50-day moving average. Fundamentals remain strong with robust earnings growth and expanding margins.",
+        "risks": [
+          "AAPL faces potential market volatility risk",
+          "Sector rotation could impact short-term performance",
+          "Valuation metrics are slightly elevated compared to historical averages"
+        ],
+        "time_horizon": "medium-term",
+        "mcp_enhanced": true
+      },
+      "timestamp": "2025-03-23T01:40:16.829455"
+    },
+    "trade_id": "AAPL_20250323_071016"
+  },
+  "MSFT_20250323_071017": {
+    "symbol": "MSFT",
+    "direction": "BUY",
+    "price": 391.260009765625,
+    "shares": 38,
+    "value": 14867.88037109375,
+    "timestamp": "2025-03-23T07:10:17.610368",
+    "decision": {
+      "symbol": "MSFT",
+      "recommendation": "BUY",
+      "confidence_score": 0.78,
+      "suggested_position_size": 0.15,
+      "reasoning": {
+        "rationale": "MSFT shows strong technical signals with bullish MACD crossover and support at the 50-day moving average. Fundamentals remain strong with robust earnings growth and expanding margins.",
+        "risks": [
+          "MSFT faces potential market volatility risk",
+          "Sector rotation could impact short-term performance",
+          "Valuation metrics are slightly elevated compared to historical averages"
+        ],
+        "time_horizon": "medium-term",
+        "mcp_enhanced": true
+      },
+      "timestamp": "2025-03-23T01:40:17.597656"
+    },
+    "trade_id": "MSFT_20250323_071017"
+  },
+  "GOOGL_20250323_071018": {
+    "symbol": "GOOGL",
+    "direction": "BUY",
+    "price": 163.99000549316406,
+    "shares": 91,
+    "value": 14923.09049987793,
+    "timestamp": "2025-03-23T07:10:18.435277",
+    "decision": {
+      "symbol": "GOOGL",
+      "recommendation": "BUY",
+      "confidence_score": 0.78,
+      "suggested_position_size": 0.15,
+      "reasoning": {
+        "rationale": "GOOGL shows strong technical signals with bullish MACD crossover and support at the 50-day moving average. Fundamentals remain strong with robust earnings growth and expanding margins.",
+        "risks": [
+          "GOOGL faces potential market volatility risk",
+          "Sector rotation could impact short-term performance",
+          "Valuation metrics are slightly elevated compared to historical averages"
+        ],
+        "time_horizon": "medium-term",
+        "mcp_enhanced": true
+      },
+      "timestamp": "2025-03-23T01:40:18.418895"
+    },
+    "trade_id": "GOOGL_20250323_071018"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "AAPL_20250323_071016": {
+    "trade_id": "AAPL_20250323_071016",
+    "symbol": "AAPL",
+    "direction": "BUY",
+    "entry_price": 218.27000427246094,
+    "exit_price": 237.22237009006446,
+    "price_change_pct": 8.682991453990976,
+    "pnl_pct": 8.682991453990976,
+    "pnl_value": 1288.7608755970396,
+    "is_profitable": true,
+    "evaluation_days": 10,
+    "evaluation_timestamp": "2025-03-23T07:10:16.935030"
+  },
+  "MSFT_20250323_071017": {
+    "trade_id": "MSFT_20250323_071017",
+    "symbol": "MSFT",
+    "direction": "BUY",
+    "entry_price": 391.260009765625,
+    "exit_price": 418.4317750443827,
+    "price_change_pct": 6.944682461934783,
+    "pnl_pct": 6.944682461934783,
+    "pnl_value": 1032.5270805927917,
+    "is_profitable": true,
+    "evaluation_days": 10,
+    "evaluation_timestamp": "2025-03-23T07:10:17.702980"
+  },
+  "GOOGL_20250323_071018": {
+    "trade_id": "GOOGL_20250323_071018",
+    "symbol": "GOOGL",
+    "direction": "BUY",
+    "entry_price": 163.99000549316406,
+    "exit_price": 177.43798355708603,
+    "price_change_pct": 8.200486379325444,
+    "pnl_pct": 8.200486379325444,
+    "pnl_value": 1223.7660038168988,
+    "is_profitable": true,
+    "evaluation_days": 10,
+    "evaluation_timestamp": "2025-03-23T07:10:18.536770"
+  }
+}
