@@ -58,9 +58,6 @@ MCP_API_URL=https://api.your-mcp-provider.com/v1/completions
 ## Performance
 
 MCP-enhanced trading decisions have demonstrated significantly higher accuracy and returns compared to traditional technical analysis. The system uses visualizations to track and report performance metrics.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+file for details.
 
 **Disclaimer**: This system is for research and educational purposes only. Use at your own risk for actual trading. 
